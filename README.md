@@ -2,9 +2,9 @@
 
   <a href="https://github.com/JoaoMateu">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcus-valmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMateu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-valmeida&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMateu&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="MAteus-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original .svg">
+  <img align="center" alt="Mateus-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original .svg">
 
   <img align="center" alt="MateusN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
 
